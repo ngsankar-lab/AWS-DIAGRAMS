@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-21T16:55:31.318Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="Q3QLk-8NIoaFelWmMbHA" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-21T16:58:11.448Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.4" etag="TyhYnULg42N9u5mnNjJ5" type="github">
   <diagram id="esZp5JZj5FolCUL15Q1b" name="Page-1">
     <mxGraphModel dx="1059" dy="552" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -27,11 +27,17 @@
         <mxCell id="1mnU-QueW-Vz5aMhvgfc-72" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;shadow=0;glass=0;" vertex="1" parent="1mnU-QueW-Vz5aMhvgfc-60">
           <mxGeometry x="60" y="40" width="80" height="100" as="geometry" />
         </mxCell>
+        <mxCell id="1mnU-QueW-Vz5aMhvgfc-81" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;shadow=0;glass=0;sketch=0;fontSize=16;" vertex="1" parent="1mnU-QueW-Vz5aMhvgfc-60">
+          <mxGeometry x="50.25" y="30.5" width="99.5" height="109.5" as="geometry" />
+        </mxCell>
         <mxCell id="1mnU-QueW-Vz5aMhvgfc-61" value="Public subnet" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#248814;fillColor=#E9F3E6;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;shadow=0;glass=0;sketch=0;" vertex="1" parent="1mnU-QueW-Vz5aMhvgfc-2">
-          <mxGeometry x="40" y="50" width="220" height="210" as="geometry" />
+          <mxGeometry x="40" y="50" width="239.5" height="229.5" as="geometry" />
         </mxCell>
         <mxCell id="1mnU-QueW-Vz5aMhvgfc-71" value="Amazon EC2" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;strokeColor=#ffffff;fillColor=#232F3E;dashed=0;verticalLabelPosition=middle;verticalAlign=bottom;align=center;html=1;whiteSpace=wrap;fontSize=10;fontStyle=1;spacing=3;shape=mxgraph.aws4.productIcon;prIcon=mxgraph.aws4.ec2;shadow=0;glass=0;" vertex="1" parent="1mnU-QueW-Vz5aMhvgfc-61">
           <mxGeometry x="70" y="40" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1mnU-QueW-Vz5aMhvgfc-80" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#ff0000;fillColor=none;gradientColor=none;dashPattern=8 4;strokeWidth=2;shadow=0;glass=0;sketch=0;fontSize=16;" vertex="1" parent="1mnU-QueW-Vz5aMhvgfc-61">
+          <mxGeometry x="60.25" y="35.25" width="99.5" height="109.5" as="geometry" />
         </mxCell>
         <mxCell id="1mnU-QueW-Vz5aMhvgfc-74" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=16;" edge="1" parent="1mnU-QueW-Vz5aMhvgfc-2" source="1mnU-QueW-Vz5aMhvgfc-69" target="1mnU-QueW-Vz5aMhvgfc-71">
           <mxGeometry relative="1" as="geometry" />
